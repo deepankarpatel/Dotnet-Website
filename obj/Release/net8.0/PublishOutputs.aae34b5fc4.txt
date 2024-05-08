@@ -1,0 +1,7 @@
+C:\Users\deepa\vs code\dotnet\bin\Release\net8.0\publish\dotnet.exe
+C:\Users\deepa\vs code\dotnet\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\deepa\vs code\dotnet\bin\Release\net8.0\publish\appsettings.json
+C:\Users\deepa\vs code\dotnet\bin\Release\net8.0\publish\dotnet.dll
+C:\Users\deepa\vs code\dotnet\bin\Release\net8.0\publish\dotnet.deps.json
+C:\Users\deepa\vs code\dotnet\bin\Release\net8.0\publish\dotnet.runtimeconfig.json
+C:\Users\deepa\vs code\dotnet\bin\Release\net8.0\publish\dotnet.pdb

@@ -1,0 +1,2 @@
+C:\Users\deepa\vs code\dotnet\bin\Debug\net8.0\dotnet.exe
+C:\Users\deepa\vs code\dotnet\bin\Debug\net8.0\dotnet.dll
